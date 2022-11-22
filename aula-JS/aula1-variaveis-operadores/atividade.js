@@ -6,6 +6,7 @@ Você terá 3 variáveis. Sendo elas:
  3 - Distância em KM da viagem;
 
 Imprima no console o valor que será gasto para realizar esta viagem.
+
 */
 
 const precoCombustivel = 5.79;

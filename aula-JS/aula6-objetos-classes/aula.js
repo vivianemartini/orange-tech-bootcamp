@@ -14,6 +14,7 @@ class Pessoa {
     }
 }
 
+
 function compararPessoas(p1, p2) {
     if (p1.idade > p2.idade) {
         console.log(`${p1.nome} é mais velho(a) que ${p2.nome}`);

@@ -68,6 +68,7 @@ class Pessoa {
     }
 }
 
+
 const jose = new Pessoa('jose', 70, 1.75)
 console.log(jose.calcularImc())
 

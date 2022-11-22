@@ -16,6 +16,7 @@ function classificarImc(imc) {
     }
 }
 
+
 // Main
 (function () {
     const peso = 75;
