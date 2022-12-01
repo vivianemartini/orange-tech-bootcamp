@@ -14,10 +14,11 @@ O Orange tech + é um projeto para você que deseja aprender do zero desenvolvim
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+O que vimos nesse bootcamp
 
 - HTML e CSS
 - JavaScript e JSON
+  - Projeto [Pokedex](https://github.com/vivianemartini)
 - React
 - Typescript
 
